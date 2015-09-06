@@ -1,3 +1,3 @@
 # uchitel
-uchitel
-s
+
+a [Sails](http://sailsjs.org) application
